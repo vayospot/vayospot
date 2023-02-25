@@ -1,11 +1,13 @@
 <h2 align="center">WELCOME TO THE PORTFOLIO</h1>
-> This is my portfolio in which I am proud of.
-> Go on. Have a look.
+<p>This is my portfolio in which I'm proud of.</p>
+<p>Go on. Have a look.</p>
+
+
 
 <h2 align="center">Projects</h1>
 <div align="center">
-  <img src="./images/preview.png" width="50%" alt="Slacker University Homepage"/>
-  <p><strong>The website is highly responsive university website.</p>
+  <img src="./images/preview.png" width="100%" alt="Slacker University Homepage"/>
+  <p><strong>A highly responsive university website.</p>
     <a target="_blank" href="https://vayyo.github.io/Slacker-University/">View Live</a>
 </div>
 ---
