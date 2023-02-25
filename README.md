@@ -1,4 +1,8 @@
 <h1 align="center">THE PORTFOLIO</h1>
+The name is Victor Ayomipo :guardsman:
+
+I code. I write. I dabble in new programming technologies and unravel the mysteries to the world through writing.
+
 This is my little stash in which I'm proud of.
 
 Go on. Have a look.
@@ -6,13 +10,19 @@ Go on. Have a look.
 <h2 align="center">Projects</h1>
 
 - Slacker University
-  <p align="center">
-  <img align="center" src="./images/preview.png" width="70%" alt="Slacker University Homepage"/>
-  </p>
-  <p align="center">A highly responsive university website.</p>
-  <p align="center"><a target="_blank" href="https://vayyo.github.io/Slacker-University/">View Live</a></p>
+
+  <div align="center">
+  <img src="./images/preview.png" width="70%" alt="Slacker University Homepage"/>
+  <p>A highly responsive university website.</p>
+  <a target="_blank" href="https://vayyo.github.io/Slacker-University/">View Live</a>
+  </div>
+  
 ---
 <h1 align="center"> Articles & Blogs</h1>
+
+
+
+
 
 
 
