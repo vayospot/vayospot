@@ -1,4 +1,4 @@
-### Hi there 👋
+### WELCOME TO THE PORTFOLIO
 
 ## Projects
 ---
