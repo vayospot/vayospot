@@ -1,6 +1,6 @@
 <h1 align="center">THE PORTFOLIO</h1>
 
-Greetings! I am Victor Ayomipo :guardsman:.
+Greetings! I am Victor Ayomipo :bust_in_silhouette:.
 
 I am a Programmer, a Technial writer, and a Conqueror of new technologies. 
 
@@ -8,9 +8,9 @@ As you browse through my portfolio, you'll see firsthand the passion and dedicat
 
 I am ready to take on any challenge for I deliver outstanding results no matter what.
 
-Behold, my little stash of mighty creations and written tales of adventure that demonstrate my skill and ingenuity!
+Behold, my little stash of mighty creations and written articles and guides that demonstrate my skill and ingenuity! :ok_hand:
 
-Go on. Have a look.
+:mag_right: Go on. Have a look.
 
 <h2 align="center">:file_folder: Projects</h1>
 
