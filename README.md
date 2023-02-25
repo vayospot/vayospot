@@ -63,14 +63,14 @@ Go on. Have a look.
 
 <h2 align="center">:scroll: Articles & Blogs</h2>
 
-- #### Explaining "this" Keyword In JavaScript - [Read Here](https://vayo.hashnode.dev/explaining-this-keyword-in-javascript-like-youre-five)
-- #### Taking Website Responsiveness To The Moon - [Read Here]()
+- **Explaining "this" Keyword In JavaScript - [Read Here](https://vayo.hashnode.dev/explaining-this-keyword-in-javascript-like-youre-five)**
+- **Taking Website Responsiveness To The Moon - [Read Here]()**
 
 
 &nbsp; &nbsp;
 
-**:telescope: Let's Connect**
-- [Twitter](https://twitter.com/Vayo_tweet)
-- [LinkedIn](https://www.linkedin.com/in/ayomipo-victor-b82875265/)
-- [Email](vayospot@gmail.com)
+### :telescope: Let's Connect
+- **[Twitter](https://twitter.com/Vayo_tweet)**
+- **[LinkedIn](https://www.linkedin.com/in/ayomipo-victor-b82875265/)**
+- **[Email](vayospot@gmail.com)**
 
