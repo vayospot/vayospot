@@ -1,8 +1,16 @@
-### WELCOME TO THE PORTFOLIO
+<h2 align="center">WELCOME TO THE PORTFOLIO</h1>
+> This is my portfolio in which I am proud of.
+> Go on. Have a look.
 
-## Projects
+<h2 align="center">Projects</h1>
+<div align="center">
+  <img src="./images/preview.png" width="50%" alt="Slacker University Homepage"/>
+  <p><strong>The website is highly responsive university website.</p>
+    <a target="_blank" href="https://vayyo.github.io/Slacker-University/">View Live</a>
+</div>
 ---
-## Articles and Blogs
+<h1 align="center"> Articles & Blogs</h1>
+
 
 <!--
 **Vayyo/Vayyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
