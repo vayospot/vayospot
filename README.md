@@ -8,7 +8,7 @@ As you browse through my portfolio, you'll see firsthand the passion and dedicat
 
 I am ready to take on any challenge for I deliver outstanding results no matter what.
 
-Behold, my little stash of mighty creations and written articles and guides that demonstrate my skill and ingenuity! :ok_hand:
+Behold, my little stash of mighty creations and written articles and guides that demonstrate my skills and ingenuity! :ok_hand:
 
 :mag_right: Go on. Have a look.
 
