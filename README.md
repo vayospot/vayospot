@@ -1,29 +1,33 @@
 <h1 align="center">THE PORTFOLIO</h1>
 
-The name is Victor Ayomipo :guardsman:.
+Greetings! I am Victor Ayomipo :guardsman:.
 
-I code. I write. I dabble in new programming technologies and unravel the mysteries to the world through writing.
+I am a Programmer, a Technial writer, and a Conqueror of new technologies. 
 
-This is my little stash in which I'm proud of.
+As you browse through my portfolio, you'll see firsthand the passion and dedication I bring to every project. 
+
+I am ready to take on any challenge for I deliver outstanding results no matter what.
+
+Behold, my little stash of mighty creations and written tales of adventure that demonstrate my skill and ingenuity!
 
 Go on. Have a look.
 
-<h2 align="center">Projects</h1>
+<h2 align="center">:file_folder: Projects</h1>
 
 - ### Slacker University
 
-  *A highly responsive university website*
+  *A highly responsive university website that fit all screens*
   
-  <img src="./images/school.webp" width="70%" alt="Slacker University Homepage"/>
+  <img src="./images/school.webp" width="70%" alt="Slacker University landing page"/>
   
   > **[Check it out](https://vayyo.github.io/Slacker-University/)**
   
 ---
 - ### CARLONY Outlet
 
-  *A pet store that showcase different car models available for purchase*
+  *A car outlet that adopts the modern design and simplicity everyone likes*
   
-  <img src="./images/car.webp" width="70%" alt="Slacker University Homepage"/>
+  <img src="./images/car.webp" width="70%" alt="CARLONY landing page"/>
   
   > **[Check it out](https://vayyo.github.io/Carlony/)**
   
@@ -32,16 +36,16 @@ Go on. Have a look.
 
   *A Tour website that's cloned perfectly from a figma template*
   
-  <img src="./images/tour.webp" width="70%" alt="Slacker University Homepage"/>
+  <img src="./images/tour.webp" width="70%" alt="UNWIND Tour landing page"/>
   
-  > **[Check it out](https://vayyo.github.io/PETLINE/)**
+  > **[Check it out](https://vayyo.github.io/Figma-Website-Clone/)**
   
 ---
 - ### PETLINE Store
 
   *A pet store for everything pet related*
   
-  <img src="./images/pet.webp" width="70%" alt="Slacker University Homepage"/>
+  <img src="./images/pet.webp" width="70%" alt="PETLINE Homepage"/>
   
   > **[Check it out](https://vayyo.github.io/PETLINE/)**
   
@@ -50,38 +54,23 @@ Go on. Have a look.
    
   *An unbeatable player vs computer Tic-Tac-Toe game.*
   
-  <img src="./images/game.webp" width="70%" alt="Slacker University Homepage"/>
+  <img src="./images/game.webp" width="70%" alt="Tic-tac-toe Homepage"/>
   
   > **[Check it out](https://vayyo.github.io/tic-tac-toe.github.io/)**
   
----
+  
+  &nbsp; &nbsp;
 
-<h2 align="center"> Articles & Blogs</h2>
+<h2 align="center">:scroll: Articles & Blogs</h2>
 
 - ### Explaining "this" Keyword In JavaScript - [Read Here](https://vayo.hashnode.dev/explaining-this-keyword-in-javascript-like-youre-five)
 - ### Taking Website Responsiveness To The Moon - [Read Here]()
 
 
-## Find me
+&nbsp; &nbsp;
 
+**:telescope: Let's Connect**
+- [Twitter](https://twitter.com/Vayo_tweet)
+- [LinkedIn](https://www.linkedin.com/in/ayomipo-victor-b82875265/)
+- [Email](vayospot@gmail.com)
 
-
-
-
-
-
-<!--
-**Vayyo/Vayyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
