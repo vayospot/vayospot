@@ -72,5 +72,5 @@ Behold, my little stash of mighty creations and written articles and guides that
 ### :telescope: Let's Connect
 - **[Twitter](https://twitter.com/Vayo_tweet)**
 - **[LinkedIn](https://www.linkedin.com/in/ayomipo-victor-b82875265/)**
-- **[Email](vayospot@gmail.com)**
+- **Email - vayospot@gmail.com**
 
