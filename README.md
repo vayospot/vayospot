@@ -64,7 +64,7 @@ Behold, my little stash of mighty creations and written articles and guides that
 <h2 align="center">:scroll: Articles & Blogs</h2>
 
 - **Explaining "this" Keyword In JavaScript - [Read Here](https://vayo.hashnode.dev/explaining-this-keyword-in-javascript-like-youre-five)**
-- **Taking Website Responsiveness To The Moon - [Read Here]()**
+- **Taking Website Responsiveness To The Moon - [Read Here](https://vayo.hashnode.dev/how-to-make-websites-responsive-for-all-devices)**
 
 
 &nbsp; &nbsp;
