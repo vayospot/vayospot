@@ -2,7 +2,7 @@
 
 Greetings! I am Victor Ayomipo :bust_in_silhouette:.
 
-I am a Programmer, a Technial writer, and a Conqueror of new technologies. 
+I am a Programmer, a Technical writer, and a Conqueror of new technologies. 
 
 As you browse through my portfolio, you'll see firsthand the passion and dedication I bring to every project. 
 
