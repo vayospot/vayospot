@@ -41,6 +41,15 @@ Behold, my little stash of mighty creations and written articles and guides that
   > **[Check it out](https://vayyo.github.io/Figma-Website-Clone/)**
   
 ---
+- ### The Mazee
+   
+  *A maze game that's generated using DFS algorithm. It also has the ability to solve itself.*
+  
+  <img src="./images/mazee.webp" width="70%" alt="The Mazee Game Homepage"/>
+  
+  > **[Check it out](https://vayyo.github.io/The-Mazee/)**
+  
+---
 - ### PETLINE Store
 
   *A pet store for everything pet related*
@@ -70,7 +79,9 @@ Behold, my little stash of mighty creations and written articles and guides that
 &nbsp; &nbsp;
 
 ### :telescope: Let's Connect
+- **Email - vayospot@gmail.com**
 - **[Twitter](https://twitter.com/Vayo_tweet)**
 - **[LinkedIn](https://www.linkedin.com/in/ayomipo-victor-b82875265/)**
-- **Email - vayospot@gmail.com**
+- **[Medium](https://medium.com/@vayospot)**
+
 
