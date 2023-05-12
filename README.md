@@ -75,6 +75,8 @@ Behold, my little stash of mighty creations and written articles and guides that
 - **Taking Website Responsiveness To The Moon - [Read Here](https://vayo.hashnode.dev/how-to-make-websites-responsive-for-all-devices)**
 - **10 Best Alternatives To ChatGPT: Developer Edition - [Read Here](https://semaphoreci.com/blog/chatgpt-alternatives)**
 - **Explaining "this" Keyword In JavaScript - [Read Here](https://vayo.hashnode.dev/explaining-this-keyword-in-javascript-like-youre-five)**
+- **16 Jobs That Will Never Be Replaced By AI - [Read Here](https://medium.com/@vayospot/16-jobs-that-will-never-be-replaced-by-ai-5acae681bf)**
+- **The Transparent Speaker: Where Sound and Beauty Meet - [Read Here](https://medium.com/@vayospot/the-transparent-speaker-where-sound-and-beauty-meet-648cbc883852)**
 
 &nbsp; &nbsp;
 
