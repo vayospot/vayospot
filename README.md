@@ -83,6 +83,10 @@ Behold, my little stash of mighty creations and written articles and guides that
   &nbsp; &nbsp;
 
 <h2 align="center">:scroll:Resume</h2>
+  
+  <img align="center" src="./images/resume.webp" width="70%" alt="Victor Ayomipo Resume"/>
+  
+  > **[View PDF](https://github.com/Vayyo/Vayyo/blob/main/victor_ayomipo_resume.pdf)**
 
 &nbsp; &nbsp;
 
