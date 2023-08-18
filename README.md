@@ -41,6 +41,15 @@ Behold, my little stash of mighty creations and written articles and guides that
   > **[Check it out](https://bucksaga.com/)**
   
 ---
+- ### PETLINE Store
+
+  *A pet store for everything pet related*
+  
+  <img src="./images/pet.webp" width="70%" alt="PETLINE Homepage"/>
+  
+  > **[Check it out](https://vayyo.github.io/PETLINE/)**
+  
+---
 - ### Tour Figma Clone
 
   *A Tour website that's cloned perfectly from a figma template*
@@ -57,15 +66,6 @@ Behold, my little stash of mighty creations and written articles and guides that
   <img src="./images/mazee.webp" width="70%" alt="The Mazee Game Homepage"/>
   
   > **[Check it out](https://vayyo.github.io/The-Mazee/)**
-  
----
-- ### PETLINE Store
-
-  *A pet store for everything pet related*
-  
-  <img src="./images/pet.webp" width="70%" alt="PETLINE Homepage"/>
-  
-  > **[Check it out](https://vayyo.github.io/PETLINE/)**
   
 ---
 - ### Tic-Tac-Toe
