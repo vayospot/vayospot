@@ -6,10 +6,6 @@ I am a Programmer, a Content writer, and the rest.
 
 Here's just a quick portfolio of mine, you'll see firsthand all I bring to every project. 
 
-I am ready to take on any challenge for I deliver outstanding results no matter what.
-
-Behold, my little stash of codes, written articles and guides that demonstrate my skills and ingenuity! :ok_hand:
-
 :mag_right: Go on. Have a look.
 
 <h2 align="center">:file_folder: Projects</h1>
@@ -83,8 +79,10 @@ Behold, my little stash of codes, written articles and guides that demonstrate m
 
 - **Taking Website Responsiveness To The Moon - [Read Here](https://vayo.hashnode.dev/how-to-make-websites-responsive-for-all-devices)**
 - **10 Best Alternatives To ChatGPT: Developer Edition - [Read Here](https://semaphoreci.com/blog/chatgpt-alternatives)**
+- **How to Successfully Market Your App as a Developer in a Crowded Digital World - [Read Here](https://semaphoreci.com/blog/app-marketing)**
+- **Flaky Tests In React: Detection, Prevention and Tools - [Read Here](https://semaphoreci.com/blog/flaky-react)**
+- **Create A Modern Portfolio - [Read Here](https://blog.openreplay.com/prepare-for-success--create-a-modern-portfolio/)**
 - **Building Mazes with Depth First Search: How-To Guide - [Read Here](https://vayo.hashnode.dev/building-mazes-with-depth-first-search-how-to-guide)**
-- **Explaining "this" Keyword In JavaScript - [Read Here](https://vayo.hashnode.dev/explaining-this-keyword-in-javascript-like-youre-five)**
 - **16 Jobs That Will Never Be Replaced By AI - [Read Here](https://medium.com/@vayospot/16-jobs-that-will-never-be-replaced-by-ai-5acae681bf)**
 - **The Transparent Speaker: Where Sound and Beauty Meet - [Read Here](https://medium.com/@vayospot/the-transparent-speaker-where-sound-and-beauty-meet-648cbc883852)**
 
