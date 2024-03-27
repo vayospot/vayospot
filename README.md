@@ -2,13 +2,13 @@
 
 Greetings! I am Victor Ayomipo :bust_in_silhouette:.
 
-I am a Programmer, a Content writer, and a Conqueror of new technologies. 
+I am a Programmer, a Content writer, and the rest. 
 
-As you browse through my portfolio, you'll see firsthand the passion and dedication I bring to every project. 
+Here's just a quick portfolio of mine, you'll see firsthand all I bring to every project. 
 
 I am ready to take on any challenge for I deliver outstanding results no matter what.
 
-Behold, my little stash of mighty creations and written articles and guides that demonstrate my skills and ingenuity! :ok_hand:
+Behold, my little stash of codes, written articles and guides that demonstrate my skills and ingenuity! :ok_hand:
 
 :mag_right: Go on. Have a look.
 
@@ -101,8 +101,8 @@ Behold, my little stash of mighty creations and written articles and guides that
 
 ### :telescope: Let's Connect
 - **Email - vayospot@gmail.com**
-- **[Twitter](https://twitter.com/Vayo_tweet)**
-- **[LinkedIn](https://www.linkedin.com/in/ayomipo-victor-b82875265/)**
+- **[Twitter](https://twitter.com/vayospot)**
+- **[LinkedIn](https://www.linkedin.com/in/vayospot)**
 - **[Medium](https://medium.com/@vayospot)**
 
 
