@@ -16,7 +16,7 @@ Here's just a quick portfolio of mine, you'll see firsthand all I bring to every
   
   <img src="./images/school.webp" width="70%" alt="Slacker University landing page"/>
   
-  > **[Check it out](https://vayyo.github.io/Slacker-University/)**
+  > **[Check it out](https://vayospot.github.io/Slacker-University/)**
   
 ---
 - ### CARLONY Outlet
@@ -25,7 +25,7 @@ Here's just a quick portfolio of mine, you'll see firsthand all I bring to every
   
   <img src="./images/car.webp" width="70%" alt="CARLONY landing page"/>
   
-  > **[Check it out](https://vayyo.github.io/Carlony/)**
+  > **[Check it out](https://vayospot.github.io/Carlony/)**
 
 ---
 - ### BuckSaga
@@ -43,7 +43,7 @@ Here's just a quick portfolio of mine, you'll see firsthand all I bring to every
   
   <img src="./images/pet.webp" width="70%" alt="PETLINE Homepage"/>
   
-  > **[Check it out](https://vayyo.github.io/PETLINE/)**
+  > **[Check it out](https://vayospot.github.io/PETLINE/)**
   
 ---
 - ### Tour Figma Clone
@@ -52,7 +52,7 @@ Here's just a quick portfolio of mine, you'll see firsthand all I bring to every
   
   <img src="./images/tour.webp" width="70%" alt="UNWIND Tour landing page"/>
   
-  > **[Check it out](https://vayyo.github.io/Figma-Website-Clone/)**
+  > **[Check it out](https://vayospot.github.io/Figma-Website-Clone/)**
   
 ---
 - ### The Mazee
@@ -61,7 +61,7 @@ Here's just a quick portfolio of mine, you'll see firsthand all I bring to every
   
   <img src="./images/mazee.webp" width="70%" alt="The Mazee Game Homepage"/>
   
-  > **[Check it out](https://vayyo.github.io/The-Mazee/)**
+  > **[Check it out](https://vayospot.github.io/The-Mazee/)**
   
 ---
 - ### Tic-Tac-Toe
@@ -70,7 +70,7 @@ Here's just a quick portfolio of mine, you'll see firsthand all I bring to every
   
   <img src="./images/game.webp" width="70%" alt="Tic-tac-toe Homepage"/>
   
-  > **[Check it out](https://vayyo.github.io/tic-tac-toe.github.io/)**
+  > **[Check it out](https://vayospot.github.io/tic-tac-toe.github.io/)**
   
   
   &nbsp; &nbsp;
@@ -93,7 +93,7 @@ Here's just a quick portfolio of mine, you'll see firsthand all I bring to every
   
   <img align="center" src="./images/resume.webp" width="70%" alt="Victor Ayomipo Resume"/>
   
-  > **[View PDF](https://github.com/Vayyo/Vayyo/blob/main/victor_ayomipo_resume.pdf)**
+  > **[View PDF](https://github.com/Vayospot/Vayyo/blob/main/victor_ayomipo_resume.pdf)**
 
 &nbsp; &nbsp;
 
