@@ -79,10 +79,14 @@ Here's just a quick portfolio of mine, you'll see firsthand all I bring to every
 
 - **Taking Website Responsiveness To The Moon - [Read Here](https://vayo.hashnode.dev/how-to-make-websites-responsive-for-all-devices)**
 - **10 Best Alternatives To ChatGPT: Developer Edition - [Read Here](https://semaphoreci.com/blog/chatgpt-alternatives)**
+- **Creating Resizable Split Panes From Scratch - [Read Here](https://blog.openreplay.com/resizable-split-panes-from-scratch/)**
 - **How to Successfully Market Your App as a Developer in a Crowded Digital World - [Read Here](https://semaphoreci.com/blog/app-marketing)**
 - **Flaky Tests In React: Detection, Prevention and Tools - [Read Here](https://semaphoreci.com/blog/flaky-react)**
 - **Create A Modern Portfolio - [Read Here](https://blog.openreplay.com/prepare-for-success--create-a-modern-portfolio/)**
 - **Building Mazes with Depth First Search: How-To Guide - [Read Here](https://vayo.hashnode.dev/building-mazes-with-depth-first-search-how-to-guide)**
+- **How To Fix Flaky Tests in Rendering and Animation Workflows - [Read Here](https://semaphoreci.com/blog/flaky-tests-ui)**
+- **Understand React Hooks With These Visual Guide Cheatsheets - [Read Here](https://blog.openreplay.com/understand-react-hooks-with-these-visual-guide-cheatsheets/)**
+- **How Developers Can Strengthen Their Mental Health Amidst High-Pressure Projects - [Read Here](https://www.smashingmagazine.com/2024/03/developers-strengthen-mental-health/)**
 - **16 Jobs That Will Never Be Replaced By AI - [Read Here](https://medium.com/@vayospot/16-jobs-that-will-never-be-replaced-by-ai-5acae681bf)**
 - **The Transparent Speaker: Where Sound and Beauty Meet - [Read Here](https://medium.com/@vayospot/the-transparent-speaker-where-sound-and-beauty-meet-648cbc883852)**
 
