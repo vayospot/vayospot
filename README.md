@@ -2,9 +2,9 @@
 
 Greetings! I am Victor Ayomipo :bust_in_silhouette:.
 
-I am a Programmer, a Content writer, and the rest. 
+I am a Mobile developer and a Content writer, and the rest (anything web). 
 
-Here's just a quick portfolio of mine, you'll see firsthand all I bring to every project. 
+Here's just a quick portfolio of mine. 
 
 :mag_right: Go on. Have a look.
 
