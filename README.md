@@ -4,11 +4,11 @@ Greetings! I am Victor Ayomipo :bust_in_silhouette:.
 
 I am a Mobile developer and a Content writer, and the rest (anything web). 
 
-Thanks for stopping by! You’re probably here for my [personal website](https://vayospot.github.io/portfolio/). Go ahead—it’s all there.
+Thanks for stopping by! You’re probably here for my [**PERSONAL WEBSITE**](https://vayospot.github.io/portfolio/). Go ahead—it’s all there.
 
-  &nbsp; &nbsp;
+&nbsp; &nbsp;
 
-<h2 align="ceter">:telescope: Let's Connect</h2>
+<h3>:telescope: Let's Connect</h3>
 
 - **Email - vayospot@gmail.com**
 - **[Twitter](https://twitter.com/vayospot)**
